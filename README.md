@@ -1,5 +1,5 @@
 
-# [TCSVT 2025] VPA: Multi-modal Virtual Point Augmentation for 3D Object Detection
+# VPA: Multi-modal Virtual Point Augmentation for 3D Object Detection
 
 <!-- ## Introduction -->
 
